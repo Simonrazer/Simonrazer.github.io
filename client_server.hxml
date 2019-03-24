@@ -1,7 +1,0 @@
-# client_server.hxml
--neko client.n
--main Client.hx
-
---next
--neko server.n
--main Server.hx
